@@ -6,11 +6,14 @@ testando em um servidor local, e então enviar novamente para o servidor para pu
 
 
 # Download
+[Windows 64-bits](https://static.fbits.net/fbits-code/windows/fbits-code.zip)
+
+[MacOS](https://static.fbits.net/fbits-code/macos/fbits-code.zip)
 
 # Instalação
 
 ### __Windows__
-1. Descompactar o .zip aonde desejar. Copie o caminho da pasta 'fbits-code'.
+1. __Crie uma pasta__ para os arquivos e descompacte o .zip. Copie o caminho da pasta criada.
 2. Clique no Iniciar e digite 'env', deve aparecer '__Editar variáveis de ambiente do sistema__', abra.
 3. Na janela, clique em '__Variáveis de Ambiente...__'.
 4. Nas variáveis do sistema (parte de baixo), encontre a variável '__Path__' e clique em '__Editar...__'.
@@ -18,7 +21,7 @@ testando em um servidor local, e então enviar novamente para o servidor para pu
 6. Abra um Prompt de Comando ou PowerShell aonde desejar e teste a instalação com '__fbits-code__'
 
 ### __MacOS__
-1. Descompactar o .zip aonde desejar.
+1. __Crie uma pasta__ para os arquivos e descompacte o .zip. Copie o caminho da pasta criada.
 2. Abrir um __Terminal__ e executar o comando:
 ```sh
 sudo nano /etc/paths
