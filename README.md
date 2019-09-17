@@ -6,7 +6,7 @@ testando em um servidor local, e então enviar novamente para o servidor para pu
 
 
 # Download
-[Windows 64-bits](https://static.fbits.net/fbits-code/windows/fbits-code.zip)
+[Windows 64-bits](https://static.fbits.net/fbits-code/windows/fbits-code.zip) 
 
 [MacOS](https://static.fbits.net/fbits-code/macos/fbits-code.zip)
 
